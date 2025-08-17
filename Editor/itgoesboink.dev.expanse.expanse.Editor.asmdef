@@ -1,0 +1,17 @@
+{
+    "name": "itgoesboink.dev.expanse.Expanse.Editor",
+    "references": [
+        "itgoesboink.dev.expanse.Expanse"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

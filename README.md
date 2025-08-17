@@ -1,2 +1,3 @@
-# Expanse
-A simple 3D spatial wrapping implementation for really, REALLY BIG environments.
+# Expnase
+### (itgoesboink.dev.expanse.Expanse) 
+Wrapping World System for Expansive Game Worlds

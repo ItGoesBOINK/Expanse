@@ -1,0 +1,15 @@
+{
+    "name": "itgoesboink.dev.expanse.Expanse.Samples",
+    "references": [
+        "itgoesboink.dev.expanse.Expanse"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

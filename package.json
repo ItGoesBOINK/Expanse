@@ -1,0 +1,18 @@
+{
+  "name": "itgoesboink.dev.expanse.expanse",
+  "version": "0.0.1",
+  "displayName": "Expnase",
+  "description": "Wrapping World System for Expansive Game Worlds",
+  "unity": "2022.3",
+  "unityRelease": "25f1",
+  "documentationUrl": "https://github.com/ItGoesBOINK/Expanse#",
+  "changelogUrl": "https://github.com/ItGoesBOINK/Expanse/activity",
+  "licensesUrl": "https://github.com/ItGoesBOINK/Expanse?tab=Apache-2.0-1-ov-file#readme",
+  "dependencies": {},
+ "keywords": [],
+  "author": {
+    "name": "It Goes BOINK!",
+    "email": "itgoesboink@gmail.com",
+    "url": "https://www.itgoesboink.com"
+  }
+}
